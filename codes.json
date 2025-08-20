@@ -8,5 +8,15 @@
         "locked": false,
         "machine_id": null,
         "ips": []
+    },
+    "WAPPST5BAM": {
+        "type": "shared",
+        "expiry": "2025-09-19",
+        "mods": [
+            "C"
+        ],
+        "locked": false,
+        "machine_id": null,
+        "ips": []
     }
 }
