@@ -1,0 +1,14 @@
+{
+    "F6TSC77MOC": {
+        "type": "shared",
+        "expiry": "2025-09-19",
+        "mods": [
+            "A",
+            "B",
+            "C"
+        ],
+        "locked": false,
+        "machine_id": null,
+        "ips": []
+    }
+}
