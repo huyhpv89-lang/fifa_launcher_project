@@ -1,1 +1,14 @@
-
+{
+  "codes": {
+    "ABC123": {
+      "mods": ["Pach Ultimate", "Classic League"],
+      "device": null,
+      "last_ip": null
+    },
+    "XYZ789": {
+      "mods": ["Classic 2016"],
+      "device": null,
+      "last_ip": null
+    }
+  }
+}
