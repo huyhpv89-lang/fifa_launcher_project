@@ -18,15 +18,5 @@
         "locked": false,
         "machine_id": null,
         "ips": []
-    },
-    "FX1S7H9E57": {
-        "type": "shared",
-        "expiry": "2025-09-19",
-        "mods": [
-            "C"
-        ],
-        "locked": true,
-        "machine_id": null,
-        "ips": []
     }
 }
