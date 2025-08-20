@@ -5,7 +5,7 @@
         "mods": [
             "C"
         ],
-        "locked": false,
+        "locked": true,
         "machine_id": null,
         "ips": []
     }
