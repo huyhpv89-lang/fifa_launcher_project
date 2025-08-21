@@ -1,66 +1,8 @@
 {
   "codes": {
-    "MW959DNC7D": {
+    "5DGZLHV5XD": {
       "type": "multi",
       "mods": [
-        "ultimate",
-        "classic2012",
-        "classic2016"
-      ],
-      "expires": "2025-09-20",
-      "status": "locked",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "AF8MP9SF2P": {
-      "type": "multi",
-      "mods": [
-        "ultimate",
-        "classic2012",
-        "classic2016"
-      ],
-      "expires": "2025-09-20",
-      "status": "locked",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "MG2XN7ZTD2": {
-      "type": "multi",
-      "mods": [],
-      "expires": "2025-09-20",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "BJFJGB28TW": {
-      "type": "multi",
-      "mods": [],
-      "expires": "2025-09-20",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "HUP3ZXPPAL": {
-      "type": "multi",
-      "mods": [],
-      "expires": "2025-09-20",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "M5UMA8RL47": {
-      "type": "multi",
-      "mods": [],
-      "expires": "2025-09-20",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "GYRFRSBAAA": {
-      "type": "multi",
-      "mods": [
-        "ultimate",
-        "classic2012",
         "classic2016",
         "classicleague"
       ],
