@@ -1,0 +1,36 @@
+{
+  "mods": [
+    {
+      "id": "ultimate",
+      "name": "Ultimate",
+      "version": "1.0.3",
+      "zip_url": "https://your-cdn-or-google-drive-direct/ultimate.zip",
+      "sha256": "",
+      "password": ""
+    },
+    {
+      "id": "classic2012",
+      "name": "Classic 2012",
+      "version": "1.0.1",
+      "zip_url": "https://.../classic2012.zip",
+      "sha256": "",
+      "password": ""
+    },
+    {
+      "id": "classic2016",
+      "name": "Classic 2016",
+      "version": "1.0.0",
+      "zip_url": "https://.../classic2016.zip",
+      "sha256": "",
+      "password": ""
+    },
+    {
+      "id": "classicleague",
+      "name": "Classic League",
+      "version": "1.2.0",
+      "zip_url": "https://.../classicleague.zip",
+      "sha256": "",
+      "password": ""
+    }
+  ]
+}
