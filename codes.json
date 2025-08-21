@@ -6,7 +6,7 @@
         "classicleague"
       ],
       "expires": "2025-09-20",
-      "status": "active",
+      "status": "locked",
       "machine_id": null,
       "ip_list": []
     }
