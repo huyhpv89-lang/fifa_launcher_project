@@ -1,40 +1,23 @@
 {
   "codes": {
-    "4WUVTDT9QE": {
-      "type": "multi",
-      "mods": [],
+    "BQABHEGXZ4": {
+      "type": "single",
+      "mods": [
+        "classic2012",
+        "classic2016"
+      ],
       "expires": "2025-09-20",
       "status": "active",
       "machine_id": null,
       "ip_list": []
     },
-    "L37AW9G7DL": {
-      "type": "multi",
-      "mods": [],
-      "expires": "2025-09-20",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "C72CYVR922": {
-      "type": "multi",
-      "mods": [],
-      "expires": "2025-09-20",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "D9GPQVRJAM": {
-      "type": "multi",
-      "mods": [],
-      "expires": "2025-09-20",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "PL4SYJ6NZR": {
-      "type": "multi",
-      "mods": [],
+    "FVA36TBUPD": {
+      "type": "single",
+      "mods": [
+        "classic2012",
+        "classic2016",
+        "classicleague"
+      ],
       "expires": "2025-09-20",
       "status": "active",
       "machine_id": null,
