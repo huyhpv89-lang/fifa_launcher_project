@@ -1,3 +1,14 @@
 {
-  "codes": {}
+  "codes": {
+    "CDY6QGCY46": {
+      "type": "single",
+      "mods": [
+        "classicleague"
+      ],
+      "expires": "2025-09-20",
+      "status": "active",
+      "machine_id": null,
+      "ip_list": []
+    }
+  }
 }
