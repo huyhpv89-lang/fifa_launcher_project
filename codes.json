@@ -1,3 +1,28 @@
 {
-  "codes": {}
+  "codes": {
+    "MW959DNC7D": {
+      "type": "multi",
+      "mods": [
+        "ultimate",
+        "classic2012",
+        "classic2016"
+      ],
+      "expires": "2025-09-20",
+      "status": "active",
+      "machine_id": null,
+      "ip_list": []
+    },
+    "AF8MP9SF2P": {
+      "type": "multi",
+      "mods": [
+        "ultimate",
+        "classic2012",
+        "classic2016"
+      ],
+      "expires": "2025-09-20",
+      "status": "active",
+      "machine_id": null,
+      "ip_list": []
+    }
+  }
 }
