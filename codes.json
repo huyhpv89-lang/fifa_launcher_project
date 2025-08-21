@@ -1,32 +1,13 @@
 {
   "codes": {
-    "DKGT3YUT2P": {
+    "W8SVEJC679": {
       "type": "multi",
       "mods": [
-        "classic2012",
-        "classic2016"
+        "ultimate",
+        "classic2016",
+        "classicleague"
       ],
       "expires": "2025-09-20",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "TUS2S2KH9S": {
-      "type": "multi",
-      "mods": [
-        "classic2012"
-      ],
-      "expires": "2025-10-04",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": []
-    },
-    "K8NK44LR4D": {
-      "type": "multi",
-      "mods": [
-        "classic2012"
-      ],
-      "expires": "2025-10-04",
       "status": "active",
       "machine_id": null,
       "ip_list": []
