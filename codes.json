@@ -1,40 +1,9 @@
 {
   "codes": {
-    "SQ0QSNPTF3X": {
+    "Z2K2YWYDB7": {
       "type": "multi",
       "mods": [
         "ultimate",
-        "classic2016"
-      ],
-      "expires": "2025-12-31",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": [],
-      "bans": {
-        "ips": [],
-        "hwids": []
-      }
-    },
-    "VIP-ABCD-EF12": {
-      "type": "single",
-      "mods": [
-        "ultimate",
-        "classic2012",
-        "classic2016",
-        "classicleague"
-      ],
-      "expires": "2026-01-31",
-      "status": "active",
-      "machine_id": null,
-      "ip_list": [],
-      "bans": {
-        "ips": [],
-        "hwids": []
-      }
-    },
-    "S3UHP644B6": {
-      "type": "multi",
-      "mods": [
         "classic2012",
         "classic2016",
         "classicleague"
