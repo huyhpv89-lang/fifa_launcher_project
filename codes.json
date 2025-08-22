@@ -61,6 +61,23 @@
       "status": "active",
       "machine_id": null,
       "ip_list": []
+    },
+    "ACC7ZD6EA3": {
+      "type": "multi",
+      "mods": [
+        "ultimate",
+        "classic2012",
+        "classic2016",
+        "classicleague"
+      ],
+      "expires": "2025-09-21",
+      "status": "active",
+      "machine_id": null,
+      "ip_list": [],
+      "bans": {
+        "ips": [],
+        "hwids": []
+      }
     }
   },
   "global_bans": {
