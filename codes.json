@@ -1,5 +1,14 @@
 {
-  "codes": {},
+  "codes": {
+    "2U5FMDD2EGM26SZ7": {
+      "created": "2025-08-23",
+      "expires": "2025-09-22",
+      "mods": [
+        "classic2012"
+      ],
+      "status": "active"
+    }
+  },
   "global_bans": {
     "ips": [],
     "hwids": []
