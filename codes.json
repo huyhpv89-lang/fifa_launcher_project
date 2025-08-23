@@ -1,24 +1,5 @@
 {
-  "codes": {
-    "VZDUYZEHKBSGXV20": {
-      "created": "2025-08-23",
-      "expires": "2025-09-22",
-      "mods": [
-        "ultimate",
-        "classic2012"
-      ],
-      "status": "active"
-    },
-    "UC9QON1A7QY928BH": {
-      "created": "2025-08-23",
-      "expires": "2025-09-22",
-      "mods": [
-        "ultimate",
-        "classic2012"
-      ],
-      "status": "active"
-    }
-  },
+  "codes": {},
   "global_bans": {
     "ips": [],
     "hwids": []
