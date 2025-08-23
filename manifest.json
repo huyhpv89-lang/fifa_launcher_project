@@ -2,50 +2,50 @@
   "mods": [
     {
       "name": "ultimate",
-      "vip": false,
+      "slug": "ultimate",
       "mod": {
-        "version": "1.0.3",
-        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_MOD_ULTIMATE"
+        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_MOD_ULTIMATE",
+        "version": "1.0.3"
       },
       "squad": {
-        "version": "2025.08.20",
-        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_SQUAD_ULTIMATE"
+        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_SQUAD_ULTIMATE",
+        "version": "2025.08.20"
       }
     },
     {
       "name": "classic2012",
-      "vip": true,
+      "slug": "classic2012",
       "mod": {
-        "version": "2.4.0",
-        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_MOD_C2012"
+        "url": "https://drive.google.com/uc?export=download&id=1yokVmbU3CEaxSAaNyjTGtGTfGT0WoBDk",
+        "version": "1"
       },
       "squad": {
-        "version": "2025.08.10",
-        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_SQUAD_C2012"
+        "url": "https://drive.google.com/uc?export=download&id=1E2tKUHdySDdLpEefrLN2fj_jqZSre_na",
+        "version": "1"
       }
     },
     {
       "name": "classic2016",
-      "vip": true,
+      "slug": "classic2016",
       "mod": {
-        "version": "3.1.2",
-        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_MOD_C2016"
+        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_MOD_C2016",
+        "version": "3.1.2"
       },
       "squad": {
-        "version": "2025.08.05",
-        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_SQUAD_C2016"
+        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_SQUAD_C2016",
+        "version": "2025.08.05"
       }
     },
     {
       "name": "classicleague",
-      "vip": true,
+      "slug": "classicleague",
       "mod": {
-        "version": "0.9.7",
-        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_MOD_LEAGUE"
+        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_MOD_LEAGUE",
+        "version": "0.9.7"
       },
       "squad": {
-        "version": "2025.08.01",
-        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_SQUAD_LEAGUE"
+        "url": "https://drive.google.com/uc?export=download&id=FILE_ID_SQUAD_LEAGUE",
+        "version": "2025.08.01"
       }
     }
   ]
